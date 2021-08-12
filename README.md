@@ -1,2 +1,3 @@
 # Interpolating-Polynomials-Project3
-Approximating 3 common functions with the direct method, Lagrange interpolation, and Hermite interpolation.  Approximations plotted on Chebyshev nodes.  
+
+<img src="https://github.com/nps6-uwf/MethodsOfPolynomialInterpolation/blob/main/Paper/Methods%20of%20Polynomial%20Interpolation.pdf"></img>
