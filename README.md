@@ -1,4 +1,2 @@
-# Interpolating-Polynomials-Project3
-<iframe class="render-viewer " src="https://viewscreen.githubusercontent.com/view/pdf?color_mode=light&amp;commit=c72b5020d311047bcaa47e503ad5a494f3233b4c&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6e7073362d7577662f4d6574686f64734f66506f6c796e6f6d69616c496e746572706f6c6174696f6e2f633732623530323064333131303437626361613437653530336164356134393466333233336234632f50617065722f4d6574686f64732532306f66253230506f6c796e6f6d69616c253230496e746572706f6c6174696f6e2e706466&amp;logged_in=true&amp;nwo=nps6-uwf%2FMethodsOfPolynomialInterpolation&amp;path=Paper%2FMethods+of+Polynomial+Interpolation.pdf&amp;repository_id=387747838&amp;repository_type=Repository#e2619380-9c94-4d03-8d45-4a7bb43b0828" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
-          Viewer requires iframe.
-      </iframe>
+# -
+<embed src="https://raw.githubusercontent.com/nps6-uwf/MethodsOfPolynomialInterpolation/c72b5020d311047bcaa47e503ad5a494f3233b4c/Paper/Methods%20of%20Polynomial%20Interpolation.pdf" width="800px" height="2100px" />
