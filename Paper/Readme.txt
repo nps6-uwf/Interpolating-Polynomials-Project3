@@ -1,0 +1,1 @@
+Make sure latex file is in same directory as the P3FiguresPDF figures directory.
