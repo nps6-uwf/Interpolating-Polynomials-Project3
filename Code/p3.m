@@ -1,6 +1,5 @@
 % Project 3.
 % Name: Nick Sebasco
-% Code from Dr. Kuo Lecture 7/13/2021 - Graduate Numerical Analysis
 % Version 2: + added my automated figure saving code that I wrote for 
 % project 2.
 
